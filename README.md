@@ -16,4 +16,9 @@ The application uses the following technologies:
 3. HTML5 Canvas for Signature Capture
 4. Cordova (PhoneGap) for Device API Access including NFC Plugin, Camera Plugin
 
+
 I can be reached for questions on twitter: @corycowgill
+
+Youtube Demo: https://www.youtube.com/watch?v=kmUxLD0TL8g
+
+Blog Entry: http://corycowgill.blogspot.com/2013/06/my-salesforce-mobile-developer.html
