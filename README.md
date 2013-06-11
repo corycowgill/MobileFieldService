@@ -1,7 +1,9 @@
 MobileFieldService
 ==================
 
-Salesforce Mobile SDK
+YouTube Demo: https://www.youtube.com/watch?v=kmUxLD0TL8g
+
+Blog Entry: http://corycowgill.blogspot.com/2013/06/my-salesforce-mobile-developer.html
 
 The general idea for the application is a mobile application that field engineers could use. 
 
@@ -19,6 +21,4 @@ The application uses the following technologies:
 
 I can be reached for questions on twitter: @corycowgill
 
-Youtube Demo: https://www.youtube.com/watch?v=kmUxLD0TL8g
 
-Blog Entry: http://corycowgill.blogspot.com/2013/06/my-salesforce-mobile-developer.html
