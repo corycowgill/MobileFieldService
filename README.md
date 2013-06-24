@@ -1,4 +1,12 @@
-The proper Repository is here:
+The proper Repository is here: http://github.com/corycowgill/MobileFieldServiceApp
+
+I had to move the repo due to some issues. Sorry!
+
+
+
+
+
+
 MobileFieldServiceApp
 
 
